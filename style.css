@@ -1,0 +1,15 @@
+  header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    justify-content: space-around;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    width: 100%;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
